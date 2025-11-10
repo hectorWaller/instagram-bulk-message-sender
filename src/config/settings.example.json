@@ -1,0 +1,16 @@
+{
+  "instagram": {
+    "cookies_file": "data/instagram_cookies.example.json",
+    "cookies": []
+  },
+  "messaging": {
+    "username_source_file": "data/usernames.sample.txt",
+    "default_message": "Hey there! Let's collaborate on upcoming campaigns.",
+    "delay_seconds": 2,
+    "max_random_additional_delay_seconds": 3
+  },
+  "logging": {
+    "log_file": "data/logs.json",
+    "log_level": "INFO"
+  }
+}
